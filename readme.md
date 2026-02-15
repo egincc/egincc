@@ -85,7 +85,8 @@
 ###
 
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/1457473109828309064" alt="Discord Presence" />
+  <img src="https://lanyard.cnrad.dev/api/1457473109828309064?hideActivity=true&idleMessage=I'm%20not%20currently%20doing%20anything!" alt="Discord Profile" />
+  <img src="https://lanyard.cnrad.dev/api/1457473109828309064?hideProfile=true&hideTimestamp=false&idleMessage=I'm%20not%20currently%20doing%20anything!" alt="Discord Activity" />
 </div>
 
 ###
