@@ -89,6 +89,14 @@ const me = {
 | <img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/hyprland.png" height="18" /> | **compositor** | Hyprland `wayland` |
 | <img src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.png" height="18" /> | **terminal** | Kitty `gpu-rendered` |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="18" /> | **editor** | Vim / VS Code `depends on project` |
+---
+
+
+<div align="center">
+<div align="center">
+<img src="https://raw.githubusercontent.com/csharpmf/csharpmf/refs/heads/main/ba74bee37501bfc3f7a2dd883f4738f8.gif" width="1200">
+<div align="center">
+
 
 ---
 
@@ -96,9 +104,3 @@ const me = {
   <sub>csmf@arch:~/readme $</sub>
 </div>
 
-
-
-<div align="center">
-<div align="center">
-<img src="https://raw.githubusercontent.com/csharpmf/csharpmf/refs/heads/main/ba74bee37501bfc3f7a2dd883f4738f8.gif" width="800">
-<div align="center">
