@@ -95,3 +95,18 @@ const me = {
 <div align="center">
   <sub>csmf@arch:~/readme $</sub>
 </div>
+
+
+
+<div align="center">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/csharpmf/csharpmf/refs/heads/main/ba74bee37501bfc3f7a2dd883f4738f8.gif" width="200">
+
+
+
+
+
+
+
+<div align="center">
