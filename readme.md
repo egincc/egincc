@@ -16,15 +16,12 @@ csmf@arch:~$ cat README.md
 ### `# about`
 
 ```js
-// init
 const me = {
   role:   "Developer",
   focus:  "containerized cloud platforms",
   stack:  ["infra", "orchestration", "scale"],
-  os:     "arch btw",
-  status: online
+  os:     "arch btw"
 }
-// open to: interesting problems
 ```
 
 ---
